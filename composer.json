@@ -1,0 +1,19 @@
+{
+    "name": "common/rbac",
+    "description": "rbac",
+    "homepage": "http://git.ibicid.com/Common/rbac.git",
+    "keywords": [
+        "rbac", "权限管理"
+    ],
+    "license": "MIT",
+    "authors": [{
+        "name": "孟森",
+        "email": "luoqi@huxin.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": { "Rbac\\": ["src/"] }
+    }
+
+}
