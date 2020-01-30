@@ -178,7 +178,7 @@ EOT;
 
     /**
      * desc : 批量更新角色权限（角色权限）
-     * author : luoqi
+     * author : liuning
      * time : 2017/3/9 16:20
      * param $role_id
      * param $uids data
@@ -282,7 +282,7 @@ EOT;
 
     /**
      * desc : 用户所有权限
-     * author : luoqi
+     * author : liuning
      * time : 2017/03/21 14:42
      * @param $uid int
      * @return array
@@ -478,7 +478,7 @@ EOT;
 
     /**
      * desc : 所有节点，并选中角色拥有的节点
-     * author : luoqi
+     * author : liuning
      * time : 2017/05/10 17:28
      * param $uid int
      * @return array
@@ -510,7 +510,7 @@ EOT;
 
     /**
      * desc : 批量更新用户权限（个人权限）
-     * auth : luoqi
+     * auth : liuning
      * time : 2017/03/21 14:32
      * param $uid int
      * param $node_ids array
@@ -552,7 +552,7 @@ EOT;
 
     /**
      * desc : 批量给角色分配权限（角色权限）
-     * auth : luoqi
+     * auth : liuning
      * time : 2017/05/10 16:51
      * param $uid int
      * param $node_ids array
@@ -664,7 +664,7 @@ EOT;
 
     /**
      * desc : 获取角色的所有用户
-     * author : luoqi
+     * author : liuning
      * time : 2017/3/9 16:20
      * param $role_id
      * return array
@@ -691,7 +691,7 @@ EOT;
 
     /**
      * desc : 根据用户批量更新角色权限
-     * author : luoqi
+     * author : liuning
      * time : 2017/5/12 17:29
      * param $uid
      * param $role_ids
